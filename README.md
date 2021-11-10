@@ -5,3 +5,10 @@
 - 📫 Just mail me at nTikeswar83@gmail.com
 
 ## My Projects
+
+### Built an Ecommerce webite
+   #### techstack
+      - nextjs
+      - graphql
+      - nodejs
+      - graph cms
