@@ -1,3 +1,4 @@
+![MERN](/overlay.jpeg)
 <h1 align="center">Hi 👋, I'm Tikeswar Naik</h1>
 <h3 align="center">A Full Stack Web Developer specializing in JavaScript Technologies across the whole stack. Experience building web applications with backend API systems.</h3>
 
